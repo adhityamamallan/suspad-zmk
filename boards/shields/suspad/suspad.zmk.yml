@@ -1,0 +1,8 @@
+file_format: "1"
+id: suspad
+name: Suspad
+type: shield
+url: https://github.com/Varaang-Tiwari/Seeed-Xiao-based-macropad
+requires: [seeed_xiao]
+features:
+  - keys
