@@ -14,7 +14,7 @@
     default_layer {
       bindings = <
         &kp K_COPY  &kp UP      &kp K_PASTE  &kp ENTER
-        &kp LEFT    &kp DOWN    &kp RIGHT    &kp APP
+        &kp LEFT    &kp DOWN    &kp RIGHT    &kp K_APP
       >;
     };
   };
